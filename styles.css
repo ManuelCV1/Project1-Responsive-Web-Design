@@ -1,0 +1,27 @@
+#main{
+    display:block;
+    background-color:#8CFF33;
+    border-radius:10px;
+  }
+  
+  #title{
+    text-align:center;
+    position:relative;
+    top:10px;
+  }
+  
+  #image{
+    max-width:100%;
+    height:auto;
+    border-radius:10px;
+    display:block;
+  }
+  
+  #img-caption{
+    text-align:center;
+  }
+  
+  #tribute-info{
+    text-align:justify;
+    margin:20px 50px 20px 50px;
+  }
